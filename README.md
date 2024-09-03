@@ -1,7 +1,8 @@
 
 ---
 
-# Charan Raj - Data Analyst & Engineer
+<h1 align='center'>Hi, I'm Charan Raj </h1>
+  <h3 align="center">Data Analyst & Engineer</h3>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=charan-raj-2000&label=Profile%20views&color=0e75b6&style=flat" alt="charan-raj-2000" />
 </p>
