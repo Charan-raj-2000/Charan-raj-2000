@@ -2,14 +2,14 @@
 ---
 
 # Charan Raj - Data Analyst & Engineer
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=charan-raj-2000&label=Profile%20views&color=0e75b6&style=flat" alt="charan-raj-2000" />
+</p>
 Welcome to my GitHub repository! I’m Charan Raj, a Data Analyst and Engineer based in Hyderabad with a passion for transforming complex data into actionable insights. With a solid background in data analytics, engineering, and statistics, I specialize in leveraging data to drive decision-making and enhance system performance.
 
 
 ## 🔧 skills
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=charan-raj-2000&label=Profile%20views&color=0e75b6&style=flat" alt="charan-raj-2000" />
-</p>
+
 
 
 <h3 align="center">Languages and Tools:</h3>
